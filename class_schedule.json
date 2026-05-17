@@ -1,0 +1,16 @@
+[
+  {
+    "name": "network",
+    "link": "https://uum.webex.com/uum/j.php?MTID=m50786ed197ff26b68b44981b635a5a52",
+    "days": ["Thursday"],
+    "start_time": "08:30",
+    "duration": 120
+  },
+  {
+    "name": "Digital Forensics",
+    "link": "https://uum.webex.com/uum/j.php?MTID=m02ad7d42d2036dd8369a176eac3d0f1d",
+    "days": ["Thursday"],
+    "start_time": "14:30",
+    "duration": 120
+  }
+]
