@@ -174,4 +174,4 @@ MIT License — free to use, modify, and share.
 
 ---
 
-> Built for UUM students dealing with early morning online classes. Use responsibly.
+> Built for students dealing with early morning online classes. Use responsibly.
